@@ -1,0 +1,40 @@
+.inputField {
+    width: 180px;
+}
+
+.inputFieldGender{
+    width: 188px;
+}
+
+.inputFieldDate{
+    width: 183px;
+}
+
+
+.LeftTop {
+    float: left;
+    position: relative;
+}
+
+.MarksheetList{
+    width: 90%;
+   border: solid;
+   border: 1px;
+   
+   border-spacing: 2px;
+   border-collapse: collapse;
+}
+
+.RightTop {
+   float: right;
+   position: relative;
+}
+
+.redText {
+    color: red;
+}
+.Hyperlinks {
+    margin-top: 70px;
+}
+
+
